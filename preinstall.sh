@@ -17,4 +17,4 @@ opkg install luci-app-netdata luci-i18n-netdata-zh-cn
 #应用过滤
 opkg install luci-app-appfilter luci-i18n-appfilter-zh-cn
 #tur加速
-opkg install luci-app-turboacc luci-i18n-turboacc-zh-cn	 
+opkg install luci-app-turboacc luci-i18n-turboacc-zh-cn

@@ -1,3 +1,4 @@
+opkg update
 #######ttyd 控制台
 opkg install luci-app-ttyd luci-i18n-ttyd-zh-cn
 #######定时自动重启

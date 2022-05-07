@@ -1,8 +1,8 @@
 ````
 opkg update
-#ttyd 控制台
-opkg install luci-app-ttyd luci-i18n-ttyd-zh-cn
-#定时自动重启
+# ttyd 控制台
+o pkg install luci-app-ttyd luci-i18n-ttyd-zh-cn
+# 定时自动重启
 opkg install luci-app-autoreboot luci-i18n-autoreboot-zh-cn
 #cpu性能调节
 opkg install luci-app-cpufreq luci-i18n-cpufreq-zh-cn
